@@ -1,7 +1,7 @@
 
 
+<img src="rickey.png" style="margin:left; position: relative">
 <div>
-  <img src="rickey.png" style="margin:left; position: relative">
 - 👋 Opa, eu sou hjalmari
 - 👀 Eu estou interessado nas áreas de Robótica, Matemática, Física e Segurança
 - 🌱 Estou atualmente estudando Assembly e Pentesting
